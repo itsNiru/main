@@ -1,0 +1,1 @@
+Go to collagewebsite Folder and Search for  index.html file and open that in a brower and the output will shows
